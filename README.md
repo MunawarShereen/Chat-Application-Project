@@ -1,1 +1,2 @@
 # Chat-Application-Project
+A real-time Chat Application built using Spring Boot, Thymeleaf, and WebSocket messaging. The application includes features like message sending, editing, and deletion with sender validation, and a chat history view backed by a persistent database. Leveraging a RESTful architecture and Thymeleaf templates, it provides a responsive user interface and a scalable backend for seamless communication.
